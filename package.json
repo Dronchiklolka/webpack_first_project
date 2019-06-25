@@ -1,0 +1,24 @@
+{
+  "name": "html-task1",
+  "version": "1.0.0",
+  "description": "first webpack project and task 1 html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dronchiklolka/webpack_first_project.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "webpack"
+  ],
+  "author": "Andrey_Boykov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dronchiklolka/webpack_first_project/issues"
+  },
+  "homepage": "https://github.com/Dronchiklolka/webpack_first_project#readme"
+}
